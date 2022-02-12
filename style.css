@@ -8,6 +8,7 @@ h2 {
     font-size: 40px;
     text-align: center;
     margin: 0 auto;
+    font-family: 'Supermercado One', cursive;
 }
 
 p {
@@ -20,10 +21,12 @@ p {
     font-size: 32px;
     margin-bottom: 48px;
     margin-top: 48px;
+    font-family: 'Supermercado One', cursive;
 }
 
 .text {
     font-size: 24px;
     margin-bottom: 36px;
-    max-width: 80%
+    max-width: 60%;
+    font-family: 'Quintessential', cursive;
 }
