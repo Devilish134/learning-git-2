@@ -16,8 +16,12 @@
   "bugs": {
     "url": "https://github.com/Devilish134/learning-git-2/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/Devilish134/learning-git-2#readme",
   "devDependencies": {
     "browser-sync": "^2.27.7"
   }
+=======
+  "homepage": "https://github.com/Devilish134/learning-git-2#readme"
+>>>>>>> 679bcad997966c24d67562283ed916675e4bad29
 }
