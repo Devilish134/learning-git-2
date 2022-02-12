@@ -1,0 +1,1 @@
+komenda wyświetlająca listę błędów we wszystkich plikach html - "html-validate ." 
